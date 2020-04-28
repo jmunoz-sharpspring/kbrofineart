@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe804ab9-0086-465d-a5c4-61e5cdb2dcd0" name="home464630328.1and1-data.host" url="http://home464630328.1and1-data.host">
+        <fileTransfer host="home464630328.1and1-data.host" port="22" rootFolder="/clickandbuilds/KBROFineArt43410" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
